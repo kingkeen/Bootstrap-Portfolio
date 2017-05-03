@@ -6,7 +6,6 @@
 	float: left;
 	margin: 20px 15px 20px 15px;
 }
-
 .innerpizza {
 	color: white;
 	height: 36px;
@@ -16,9 +15,7 @@
 	text-align: center;
 	position: relative;
 	bottom: -170px;
-	
 }
-
 .avocado {
 	background-image: url('../images/cat2.jpg');
 	height: 220px;
@@ -27,7 +24,6 @@
 	float: left;
 	margin: 20px 15px 20px 15px;
 }
-
 .inneravocado {
 	color: white;
 	height: 36px;
@@ -37,9 +33,7 @@
 	text-align: center;
 	position: relative;
 	bottom: -170px;
-	
 }
-
 .habanero {
 	background-image: url('../images/cat3.jpg');
 	height: 220px;
@@ -48,7 +42,6 @@
 	float: left;
 	margin: 20px 15px 20px 15px;
 }
-
 .innerhabanero {
 	color: white;
 	height: 36px;
@@ -58,9 +51,7 @@
 	text-align: center;
 	position: relative;
 	bottom: -170px;
-	
 }
-
 .ghostpepper {
 	background-image: url('../images/cat4.jpg');
 	height: 220px;
@@ -69,7 +60,6 @@
 	float: left;
 	margin: 20px 15px 20px 15px;
 }
-
 .innerghost {
 	color: white;
 	height: 36px;
@@ -79,9 +69,7 @@
 	text-align: center;
 	position: relative;
 	bottom: -170px;
-	
 }
-
 .jalepeno {
 	background-image: url('../images/cat5.jpg');
 	height: 220px;
@@ -89,9 +77,7 @@
 	background-color: yellow;
 	float: left;
 	margin: 20px 15px 20px 15px;
-
 }
-
 .innerjalepeno {
 	color: white;
 	height: 36px;
@@ -101,6 +87,83 @@
 	text-align: center;
 	position: relative;
 	bottom: -170px;
+}
+.footsie {
+	text-align: center;
+}
+.myface {
+	margin: 15px;
 	
 }
+.container {
+	background-color: white;
+	text-align: center;
+}
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+}
+.panel-body {
+	text-align: center;
+}
+.panel {
+	max-width: 300px;
+	position: relative;
+}
+.imgtxt {
+	clear: both;
+}
+p {
+	font-size: 12px;
+	line-height: 24px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+h1 {
+	font-size: 28px;
+	line-height: 28px;
+	margin-bottom: 0px;
+	color: #4aaaa5;
+	text-align: left;
+}
+h2 {
+	font-size: 28px;
+	line-height: 45px;
+	margin-bottom: 20px;
+	color: #4aaaa5;
+	text-align: center;
+}
+body {
+    line-height: 32px;
+    color: #333;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url("../images/back_pattern.png");
+    background-repeat: repeat;
+}
+.container-fluid {
+	background-color: white;
 
+}
+.text-center {
+	text-align: center;
+}
+.img-responsive{
+	max-width: 140px;
+	max-height: 200px;
+	min-height: 100px;
+	min-width: 70px;
+}
+
+
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) { 
+
+	
+}
