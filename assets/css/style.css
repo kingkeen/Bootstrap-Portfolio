@@ -1,0 +1,106 @@
+.pizza {
+	background-image: url('../images/cat1.jpg');
+	height: 220px;
+	width: 220px;
+	background-color: yellow;
+	float: left;
+	margin: 20px 15px 20px 15px;
+}
+
+.innerpizza {
+	color: white;
+	height: 36px;
+	width: 220px;
+	background-color: #4aaaa5;
+	font-size: 18px;
+	text-align: center;
+	position: relative;
+	bottom: -170px;
+	
+}
+
+.avocado {
+	background-image: url('../images/cat2.jpg');
+	height: 220px;
+	width: 220px;
+	background-color: yellow;
+	float: left;
+	margin: 20px 15px 20px 15px;
+}
+
+.inneravocado {
+	color: white;
+	height: 36px;
+	width: 220px;
+	background-color: #4aaaa5;
+	font-size: 18px;
+	text-align: center;
+	position: relative;
+	bottom: -170px;
+	
+}
+
+.habanero {
+	background-image: url('../images/cat3.jpg');
+	height: 220px;
+	width: 220px;
+	background-color: yellow;
+	float: left;
+	margin: 20px 15px 20px 15px;
+}
+
+.innerhabanero {
+	color: white;
+	height: 36px;
+	width: 220px;
+	background-color: #4aaaa5;
+	font-size: 18px;
+	text-align: center;
+	position: relative;
+	bottom: -170px;
+	
+}
+
+.ghostpepper {
+	background-image: url('../images/cat4.jpg');
+	height: 220px;
+	width: 220px;
+	background-color: yellow;
+	float: left;
+	margin: 20px 15px 20px 15px;
+}
+
+.innerghost {
+	color: white;
+	height: 36px;
+	width: 220px;
+	background-color: #4aaaa5;
+	font-size: 18px;
+	text-align: center;
+	position: relative;
+	bottom: -170px;
+	
+}
+
+.jalepeno {
+	background-image: url('../images/cat5.jpg');
+	height: 220px;
+	width: 220px;
+	background-color: yellow;
+	float: left;
+	margin: 20px 15px 20px 15px;
+
+}
+
+.innerjalepeno {
+	color: white;
+	height: 36px;
+	width: 220px;
+	background-color: #4aaaa5;
+	font-size: 18px;
+	text-align: center;
+	position: relative;
+	bottom: -170px;
+	
+}
+
